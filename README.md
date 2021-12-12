@@ -289,7 +289,7 @@ dotnet Ray.BiliBiliTool.Console.dll -runTasks=Daily&LiveLottery
 当然，不改的话，也算是另一种捐赠支持作者的方式啦。
 
 感谢支持~
-
+2
 ## 9. API 参考
 - [www.bilibili.com](https://www.bilibili.com/)
 
